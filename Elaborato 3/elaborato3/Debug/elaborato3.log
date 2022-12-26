@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Luca\source\repos\elaborato3\main.c(29,32): warning C4244: '=': conversione da 'double' a 'unsigned int'. Possibile perdita di dati.
+  elaborato3.vcxproj -> C:\Users\Luca\source\repos\elaborato3\Debug\elaborato3.exe

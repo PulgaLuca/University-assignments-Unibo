@@ -1,0 +1,6 @@
+
+LINKS:
+https://stackoverflow.com/questions/26296058/cant-print-correctly-a-long-double-in-c
+For the C programming language, ISO/IEC TS 18661-3 (floating-point extensions for C, interchange and extended types) specifies _Float128 as the type implementing the IEEE 754 quadruple-precision format (binary128).[12] Alternatively, in C/C++ with a few systems and compilers, quadruple precision may be specified by the long double type, but this is not required by the language (which only requires long double to be at least as precise as double), nor is it common.
+https://www.ibm.com/docs/en/ibm-mq/9.0?topic=platforms-standard-data-types-unix-linux-windows
+https://www.intel.com/content/www/us/en/developer/articles/technical/size-of-long-integer-type-on-different-architecture-and-os.html
