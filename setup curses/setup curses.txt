@@ -1,0 +1,2 @@
+c/c++ => generale => directory di inclusione aggiuntive => $(ProjectDir)
+linker => input => dipendenze aggiuntive => $(ProjectDir)/pdcurses.lib

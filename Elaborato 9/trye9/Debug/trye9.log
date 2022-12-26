@@ -1,0 +1,9 @@
+﻿  snake.c
+C:\Users\Luca\source\repos\trye9\snake.c(98,22): warning C4033: 'snake_body' deve restituire un valore
+C:\Users\Luca\source\repos\trye9\snake.c(184,10): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\trye9\snake.c(122): warning C4715: 'snake_knotted': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Luca\source\repos\trye9\snake.c(105): warning C4715: 'snake_body': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Luca\source\repos\trye9\snake.c(77): warning C4715: 'snake_create': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Luca\source\repos\trye9\snake.c(93): warning C4715: 'snake_head': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Luca\source\repos\trye9\snake.c(34): warning C4715: 'node_search': non tutti i percorsi di controllo restituiscono un valore
+  trye9.vcxproj -> C:\Users\Luca\source\repos\trye9\Debug\trye9.exe
