@@ -1,0 +1,14 @@
+﻿  board.c
+C:\Users\Luca\source\repos\elaborato7\board.c(55,7): warning C4013: 'srand' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\Luca\source\repos\elaborato7\board.c(55,12): warning C4013: 'time' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\Luca\source\repos\elaborato7\board.c(60,11): warning C4013: 'rand' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\Luca\source\repos\elaborato7\board.c(113,21): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(113,43): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(124,32): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(124,44): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(151,30): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(151,42): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(164,31): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(164,43): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\elaborato7\board.c(136): warning C4715: 'display_board': non tutti i percorsi di controllo restituiscono un valore
+  elaborato7.vcxproj -> C:\Users\Luca\source\repos\elaborato7\Debug\elaborato7.exe
