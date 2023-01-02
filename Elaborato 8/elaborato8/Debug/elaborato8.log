@@ -1,9 +1,0 @@
-﻿  ghosts.c
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(39,21): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(65,16): warning C4101: 'i': variabile locale senza riferimenti
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(164,21): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(161,25): warning C4101: 'i': variabile locale senza riferimenti
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(246,33): warning C4018: '<': errata corrispondenza tra signed e unsigned
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(248,41): warning C4018: '<': errata corrispondenza tra signed e unsigned
-C:\Users\Luca\source\repos\elaborato8\ghosts.c(117): warning C4715: 'ghosts_get_status': non tutti i percorsi di controllo restituiscono un valore
-  elaborato8.vcxproj -> C:\Users\Luca\source\repos\elaborato8\Debug\elaborato8.exe
