@@ -1,0 +1,6 @@
+﻿  dl_bigint.c
+C:\Users\Luca\source\repos\Elaborato10dl\dl_bigint.c(73,17): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\Luca\source\repos\Elaborato10dl\dl_bigint.c(250,10): warning C4477: 'printf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'bigint'
+C:\Users\Luca\source\repos\Elaborato10dl\dl_bigint.c(195): warning C4715: 'mul_digit': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\Luca\source\repos\Elaborato10dl\dl_bigint.c(67): warning C4715: 'tail_insert': non tutti i percorsi di controllo restituiscono un valore
+  Elaborato10dl.vcxproj -> C:\Users\Luca\source\repos\Elaborato10dl\Debug\Elaborato10dl.exe
